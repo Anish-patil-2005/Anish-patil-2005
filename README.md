@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anish Patil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 💬 Ask me about **C++, React, MERN Stack, JS, Agile, SQL**
+- 💬 Ask me about **C++, React, MERN Stack, JS, TS, Agile, SQL**
 
 - 📫 How to reach me **anishpatil6331@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ePKL9742H55joINCto600VdLcmfI7r_J/view?usp=drive_link](https://drive.google.com/file/d/1ePKL9742H55joINCto600VdLcmfI7r_J/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ePKL9742H55joINCto600VdLcmfI7r_J/view?usp=drive_link](https://drive.google.com/file/d/1bOGQt5IOIy1Nx7UZKeBpCxDP_cklBCeb/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
