@@ -10,18 +10,18 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Twitter -->
-  <a href="https://twitter.com/anishpatil_07" target="blank">
+   <a href="https://twitter.com/anishpatil_07" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anishpatil_07" height="30" width="40" />
   </a>
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/anish-patil-256269281/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/anish-patil-256269281/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" />
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/anishpatil_coder/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" alt="leetcode" height="30" width="40" />
+  <a href="https://leetcode.com/u/anishpatil_coder/" target="_blank">
+    <img align="center" src="https://assets.leetcode.com/static_assets/public/icons/favicon-32x32.png" height="30" width="30" />
   </a>
 </p>
 
